@@ -24,8 +24,11 @@
     },
     "platforms": [
       "ios",
-      "android",
-      "browser"
+      "browser",
+      "android"
     ]
+  },
+  "dependencies": {
+    "gradle": "^1.2.4"
   }
 }
